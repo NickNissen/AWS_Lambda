@@ -1,6 +1,6 @@
 #### Written by Nick Nissen (dev@nicknissen.com)
 
-# Contact Form Handler for deployment on AWS Lambda usint Python3.7
+# Contact Form Handler for deployment on AWS Lambda using Python3.7
 
 This package takes form input from an HTML form and emails the contents to the intended recipient.
 
